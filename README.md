@@ -54,5 +54,8 @@ If you get `ucrtbased.dll` and `vcruntime140d.dll` missing error when running `l
 ## Legal Notice
 Educational purposes only. Downloading DRM'ed materials may violate their Terms of Service. DO NOT USE THIS FOR PIRACY.
 
-##
+## HEROKU DEPLOY 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sawai12/narrowvinedrm)
+
+
 If you enjoyed using the script, a star or a follow will be highly appreciated! 😎
